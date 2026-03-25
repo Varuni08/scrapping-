@@ -1,0 +1,8 @@
+streamlit
+DrissionPage
+beautifulsoup4
+groq
+python-dotenv
+lxml
+requests
+google-api-python-client
